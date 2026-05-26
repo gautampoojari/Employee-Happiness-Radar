@@ -222,25 +222,25 @@ Admins can monitor employee engagement, mood trends, and feedback analytics.
 
 ### 💬 Employee Feedback System
 
-```md
-<img width="1200" height="650" alt="Employee Feedback" src="PASTE_IMAGE_LINK_HERE" />
-```
+
+<img alt="Employee Feedback" src="https://github.com/user-attachments/assets/f838ae7e-d450-4ac5-85ec-400d22e23e99" />
+
 
 ---
 
 ### 📋 Employee Survey Page
 
-```md
-<img width="1200" height="650" alt="Employee Survey" src="PASTE_IMAGE_LINK_HERE" />
-```
+
+<img alt="Employee Survey" src="https://github.com/user-attachments/assets/56026b9d-728d-4003-8898-40db5508b3bd" />
+
 
 ---
 
 ### 📈 Employee Overview Dashboard
 
-```md
-<img width="1200" height="650" alt="Employee Overview" src="PASTE_IMAGE_LINK_HERE" />
-```
+
+<img alt="Employee Overview" src="https://github.com/user-attachments/assets/544427b4-11bf-40d7-8617-371916a07600" />
+
 
 ---
 
