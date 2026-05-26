@@ -174,33 +174,33 @@ Admins can monitor employee engagement, mood trends, and feedback analytics.
 
 ### 🏠 Landing / Home Page
 
-```md
-<img width="1200" height="650" alt="Landing Page" src="PASTE_IMAGE_LINK_HERE" />
-```
+
+<img alt="Landing Page" src="https://github.com/user-attachments/assets/fa8ca6d2-e94d-4db1-a927-08277fbd02a6" />
+
 
 ---
 
 ### 🔐 Employee Login
 
-```md
-<img width="1200" height="650" alt="Employee Login" src="PASTE_IMAGE_LINK_HERE" />
-```
+
+<img alt="Employee Login" src="https://github.com/user-attachments/assets/166dc415-0699-445b-94d9-b815b86614bd" />
+
 
 ---
 
 ### 📝 Employee Signup
 
-```md
-<img width="1200" height="650" alt="Employee Signup" src="PASTE_IMAGE_LINK_HERE" />
-```
+
+<img alt="Employee Signup" src="https://github.com/user-attachments/assets/d316e47e-6fa4-41d0-b7a0-ff2d7557ad9c" />
+
 
 ---
 
 ### 🛠️ Admin Login
 
-```md
-<img width="1200" height="650" alt="Admin Login" src="PASTE_IMAGE_LINK_HERE" />
-```
+
+<img alt="Admin Login" src="https://github.com/user-attachments/assets/cd7b0eef-d13b-4f58-99e9-e124b36769cb" />
+
 
 ---
 
