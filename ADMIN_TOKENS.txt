@@ -1,0 +1,67 @@
+================================================================
+EMPLOYEE HAPPINESS RADAR - ADMIN INVITE TOKENS
+================================================================
+
+DEFAULT ADMIN TOKENS (Copy these exactly):
+------------------------------------------
+
+1. Main Admin Token:
+   ADMIN-INVITE-2025-MAIN
+   
+2. HR Department Token:
+   ADMIN-INVITE-HR-001
+   
+3. Executive Token:
+   ADMIN-INVITE-EXEC-001
+
+
+IMPORTANT NOTES:
+----------------
+✓ Each token can only be used ONCE
+✓ Tokens expire on: December 31, 2026
+✓ After using all tokens, admins can generate new ones in Settings
+✓ Copy the exact token (case-sensitive)
+✓ Paste into the "Admin Invite Token" field during signup
+
+
+HOW TO USE:
+-----------
+1. Go to: http://localhost:5173 (or your app URL)
+2. Click "Admin Portal"
+3. Click "Sign up with invite token"
+4. Copy one of the tokens above
+5. Fill in your details + paste the token
+6. Click "Create Admin Account"
+7. Login with your email and password
+
+
+GENERATE NEW TOKENS:
+--------------------
+Once logged in as admin:
+1. Go to Settings tab
+2. Enter a description for the new token
+3. Click "Generate Token"
+4. Copy and share the new token
+
+
+TEST CREDENTIALS (After creating accounts):
+--------------------------------------------
+Admin: admin@test.com / admin123
+Employee: employee@test.com / emp123
+
+
+TROUBLESHOOTING:
+----------------
+❌ "Token has already been used"
+   → Use a different token or generate a new one
+
+❌ "Token has expired"  
+   → Generate a new token from Admin Settings
+
+❌ "Invalid invite token"
+   → Check spelling, copy-paste to avoid typos
+
+
+================================================================
+For full documentation, see SETUP_GUIDE.md
+================================================================
