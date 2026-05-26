@@ -214,9 +214,9 @@ Admins can monitor employee engagement, mood trends, and feedback analytics.
 
 ### 😊 Mood Check-In System
 
-```md
-<img width="1200" height="650" alt="Mood Check-In" src="PASTE_IMAGE_LINK_HERE" />
-```
+
+<img alt="Mood Check-In" src="https://github.com/user-attachments/assets/6b868572-9adb-4277-9419-c696025b148a" />
+
 
 ---
 
