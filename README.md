@@ -170,26 +170,85 @@ Admins can monitor employee engagement, mood trends, and feedback analytics.
 
 ---
 
-## 📸 Application Screens
+## 📸 Application Screenshots
 
-### 🔐 Authentication System
+### 🏠 Landing / Home Page
 
-* Employee Login & Signup
-* Admin Login & Signup
+```md
+<img width="1200" height="650" alt="Landing Page" src="PASTE_IMAGE_LINK_HERE" />
+```
 
-### 👨‍💼 Employee Dashboard
+---
 
-* Mood Check-In
-* Feedback Submission
-* Surveys
-* Personal Overview
+### 🔐 Employee Login
 
-### 🛠️ Admin Dashboard
+```md
+<img width="1200" height="650" alt="Employee Login" src="PASTE_IMAGE_LINK_HERE" />
+```
 
-* Employee Analytics
-* Survey Management
-* Feedback Monitoring
-* Mood Insights
+---
+
+### 📝 Employee Signup
+
+```md
+<img width="1200" height="650" alt="Employee Signup" src="PASTE_IMAGE_LINK_HERE" />
+```
+
+---
+
+### 🛠️ Admin Login
+
+```md
+<img width="1200" height="650" alt="Admin Login" src="PASTE_IMAGE_LINK_HERE" />
+```
+
+---
+
+### 📊 Admin Dashboard
+
+```md
+<img width="1200" height="650" alt="Admin Dashboard" src="PASTE_IMAGE_LINK_HERE" />
+```
+
+---
+
+### 😊 Mood Check-In System
+
+```md
+<img width="1200" height="650" alt="Mood Check-In" src="PASTE_IMAGE_LINK_HERE" />
+```
+
+---
+
+### 💬 Employee Feedback System
+
+```md
+<img width="1200" height="650" alt="Employee Feedback" src="PASTE_IMAGE_LINK_HERE" />
+```
+
+---
+
+### 📋 Employee Survey Page
+
+```md
+<img width="1200" height="650" alt="Employee Survey" src="PASTE_IMAGE_LINK_HERE" />
+```
+
+---
+
+### 📈 Employee Overview Dashboard
+
+```md
+<img width="1200" height="650" alt="Employee Overview" src="PASTE_IMAGE_LINK_HERE" />
+```
+
+---
+
+### 🧠 Analytics & Insights
+
+```md
+<img width="1200" height="650" alt="Analytics Dashboard" src="PASTE_IMAGE_LINK_HERE" />
+```
 
 ---
 
@@ -223,4 +282,3 @@ Feel free to fork this repository and submit pull requests.
 ## 📜 License
 
 This project is open-source and available under the MIT License.
-
