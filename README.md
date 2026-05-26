@@ -246,9 +246,9 @@ Admins can monitor employee engagement, mood trends, and feedback analytics.
 
 ### 🧠 Analytics & Insights
 
-```md
-<img width="1200" height="650" alt="Analytics Dashboard" src="PASTE_IMAGE_LINK_HERE" />
-```
+
+<img alt="Analytics Dashboard" src="https://github.com/user-attachments/assets/ac267304-478c-4e13-989d-191d2cbe2d7e" />
+
 
 ---
 
