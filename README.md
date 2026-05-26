@@ -196,7 +196,7 @@ Admins can monitor employee engagement, mood trends, and feedback analytics.
 
 ---
 
-### 🛠️ Admin Login
+### 🛠️ Admin Signup
 
 
 <img alt="Admin Login" src="https://github.com/user-attachments/assets/cd7b0eef-d13b-4f58-99e9-e124b36769cb" />
@@ -206,9 +206,9 @@ Admins can monitor employee engagement, mood trends, and feedback analytics.
 
 ### 📊 Admin Dashboard
 
-```md
-<img width="1200" height="650" alt="Admin Dashboard" src="PASTE_IMAGE_LINK_HERE" />
-```
+
+<img alt="Admin Dashboard" src="https://github.com/user-attachments/assets/34724c29-9d15-4f30-aa54-b03b059eebad" />
+
 
 ---
 
